@@ -1,0 +1,44 @@
+{
+  "activities": [
+    {
+      "satellite_hw_id": "s112",
+      "start_time": "2024-07-12T01:03:49Z",
+      "end_time": "2024-07-12T01:04:08Z"
+    },
+    {
+      "satellite_hw_id": "s112",
+      "start_time": "2024-07-12T00:34:05Z",
+      "end_time": "2024-07-12T00:34:08Z"
+    },
+    {
+      "satellite_hw_id": "s112",
+      "start_time": "2024-07-12T01:12:18Z",
+      "end_time": "2024-07-12T01:12:28Z"
+    },
+    {
+      "satellite_hw_id": "s112",
+      "start_time": "2024-07-12T00:34:58Z",
+      "end_time": "2024-07-12T00:35:20Z"
+    },
+    {
+      "satellite_hw_id": "s112",
+      "start_time": "2024-07-12T01:11:08Z",
+      "end_time": "2024-07-12T01:11:18Z"
+    },
+    {
+      "satellite_hw_id": "s112",
+      "start_time": "2024-07-12T00:37:58Z",
+      "end_time": "2024-07-12T00:38:20Z"
+    },
+    {
+      "satellite_hw_id": "s112",
+      "start_time": "2024-07-12T00:48:58Z",
+      "end_time": "2024-07-12T00:49:20Z"
+    },
+    {
+      "satellite_hw_id": "s112",
+      "start_time": "2024-07-12T01:06:49Z",
+      "end_time": "2024-07-12T01:10:08Z"
+    }
+  ]
+} 
