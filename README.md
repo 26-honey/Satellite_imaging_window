@@ -1,5 +1,5 @@
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 honey_project/
